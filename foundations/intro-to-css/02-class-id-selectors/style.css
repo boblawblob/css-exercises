@@ -1,0 +1,25 @@
+/* To make it easier, can use .odd as class next time instead of using 3 different classes */
+/* For font size repeating, could have made a class for the font on .cooler and #second id elements */
+
+.first-class,
+.cooler,
+.last-class {
+    background-color:pink;
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+
+
+#first-id {
+    color:blue;
+    font-size:36px
+}
+
+.cooler {
+    font-size:24px;
+}
+
+#second-id {
+    background-color:lightgreen;
+    font-size:24px;
+    font-weight:bold
+}
